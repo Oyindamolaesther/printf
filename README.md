@@ -1,2 +1,1 @@
-# printf
-dual project
+readme
